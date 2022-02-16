@@ -17,18 +17,22 @@
   ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/sass%20-%23563D7C.svg?&style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+  ![Vuejs](https://img.shields.io/badge/vuejs%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
   
+  
 ## What I want to do next :thinking:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node JS](https://img.shields.io/badge/node-js?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Reach me 📫
-[![Linkedin](https://www.linkedin.com/in/morelalejandro/)
+[![Linkedin](https://img.shields.io/badge/-Morel%Alejandro-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/morelalejandro/)](https://www.linkedin.com/in/morelalejandro/)
 [![Mail](https://img.shields.io/badge/-alejandro.morel1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.morel1905gmail.com)
 
 ## Interesting stats
