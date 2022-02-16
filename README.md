@@ -1,4 +1,5 @@
 # Hi! Welcome to my github! 👋 
+![Profile views](https://gpvc.arturio.dev/alejandrom12)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67072347/154184358-fffda43c-61dd-4a8a-8b87-1023a1e72925.png">
@@ -34,8 +35,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/morelalejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morelalejandro" height="30" width="40" /></a>
 <a href="https://discord.gg/Alejandro Morel#3819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alejandro Morel#3819" height="50" width="50" /></a>
-  [![Mail](https://img.shields.io/badge/-alejandro.morel1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.morel1905@gmail.com)
 </p>
+[![Mail](https://img.shields.io/badge/-alejandro.morel1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.morel1905@gmail.com)
 
 ## Interesting stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrom12)
