@@ -31,9 +31,11 @@
 ![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node JS](https://img.shields.io/badge/node-js?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Reach me 📫
-[![Linkedin](https://img.shields.io/badge/-Morel%Alejandro-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/morelalejandro/)](https://www.linkedin.com/in/morelalejandro/)
-[![Mail](https://img.shields.io/badge/-alejandro.morel1905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.morel1905gmail.com)
+<h3 align="left">## Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/morelalejandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morelalejandro" height="30" width="40" /></a>
+<a href="https://discord.gg/Alejandro Morel#3819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alejandro Morel#3819" height="30" width="40" /></a>
+</p>
 
 ## Interesting stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrom12)
