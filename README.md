@@ -7,7 +7,7 @@
 
 
 ## About me :mortar_board:
-- I'm an **"Senior Technician in Software Development"** specializing in front-end web development
+- I am a "Software Development Technician", I am currently improving my skills in front-end web development.
 <br>
 - Born, raised and placed in Argentina 🇦🇷. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
