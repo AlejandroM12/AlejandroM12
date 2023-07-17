@@ -1,6 +1,5 @@
 # Hi! Welcome to my github! 👋
 
-![Profile views](https://gpvc.arturio.dev/alejandrom12)
 
 <div align="center">
   <img src="https://i.imgur.com/d6HYntR.png">
